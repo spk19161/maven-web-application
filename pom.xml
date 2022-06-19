@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SPK DevOps Releases Nexus Repository</name>
-	      <url>http://52.90.94.101:8081/repository/maven-releases/</url>
+	      <url>http://34.235.119.146:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SPK DevOps Snapshot Nexus Repository </name>
-	      <url>http://52.90.94.101:8081/repository/maven-snapshots/</url>
+	      <url>http://34.235.119.146:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
